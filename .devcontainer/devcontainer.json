@@ -1,5 +1,5 @@
 {
-  "image": "mcr.microsoft.com/devcontainers/universal:6-noble",
+  "image": "mcr.microsoft.com/devcontainers/typescript-node",
   "hostRequirements": {
       "cpus": 4
   },
